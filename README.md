@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nishit</h1>
-<h3 align="center">A passionate VLSI Design & Electronics Enthusiast</h3>
+<h2 align="center">Hi 👋, I'm Nishit</h1>
+<h5 align="center">A passionate VLSI Design & Electronics Enthusiast</h3>
 
 ---
 
@@ -24,13 +24,6 @@
 - 💡 Static Timing Analysis (STA)  
 - 📘 SystemVerilog for Functional Verification (UVM, Assertions)  
 
----
-
-### 💬 Ask Me About
-- Verilog, RTL Design & Digital Logic  
-- Physical Design Flow and Timing Analysis  
-- FPGA Design with Xilinx Vivado  
-- Scripting in Tcl, Shell, and Python for EDA Automation  
 
 ---
 
@@ -38,9 +31,3 @@
 - 📧 Email: your.email@example.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nishit-darji-77030a228/)  
 - 💻 [GitHub](https://github.com/nishit3134)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishit3134&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>

@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Nishit</h1>
-<h5 align="center">A passionate VLSI Design & Electronics Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Nishit</h1>
+<h3 align="center">A passionate VLSI Design & Electronics Enthusiast</h3>
 
 ---
 
